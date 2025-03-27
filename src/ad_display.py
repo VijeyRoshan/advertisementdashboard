@@ -128,3 +128,4 @@ class AdManager:
     def close(self):
         """Cleanup pygame resources"""
         pygame.quit()
+        #mvdk;vnijdqbvuq
